@@ -23,7 +23,7 @@ using namespace __gnu_pbds;
 #define sz(x) ((int)(x).size())
 #define all(x) (x).begin(), (x).end()
 
-#ifdef Priyansh31dec
+#ifdef Harshit404
 #define debug(x) cerr << #x<<" "; _print(x); cerr << endl;
 #else
 #define debug(x);
